@@ -1,30 +1,109 @@
-# 💫 About Me:
-**I'm currently working on:** A multi-robot ROS 2 and Gazebo project. It covers simulation, navigation and mission planning, while I finish my mechatronics engineering degree at ENISo in Tunisia.<br>
-**I'm looking to collaborate on:** Open-source robotics and embedded projects. ROS 2 packages, STM32 firmware, simulation tools. If it moves or blinks, I'm in.<br>
-**I'm looking for help with:** Writing cleaner, MISRA-compliant C for STM32. I want my firmware to pass a review without a single complaint.<br>
-**I'm currently learning:** Data science and intro to AI, through the GCI World 2026 program.<br>
-**Ask me about:** STM32, FreeRTOS, CAN, UART, SPI, I2C, ROS 2, Gazebo and PCB design with Altium.<br>
-**Fun fact:** I talk to microcontrollers more than I should. They answer in hex.
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amine.nsiri.583) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-nsiri)
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · aminensiri001</sub></p>
+<h1>Nsiri Amine</h1>
+<h2>Product-minded developer</h2>
+<p>Mechatronics Engineering Student (ENISo) | Embedded Systems &amp; Robotics: STM32, FreeRTOS, ROS 2, C/C++ | Seeking 6-month Engineering Internship from Feb 2027</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=plastic&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=plastic&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=plastic&logo=node-red&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=plastic&logo=eclipsemosquitto&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=plastic&logo=home-assistant&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=plastic&logo=zigbee&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
+<p><a href="https://github.com/aminensiri001">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/181579478?u=e8ee6ce9d068d140a2006ad8783ccb58e85743f2&amp;v=4" width="180" alt="Nsiri Amine GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AmineNsiri001&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AmineNsiri001&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AmineNsiri001&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2>What teams can evaluate quickly</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmineNsiri001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>5 contributions · 1 active days</p></td>
+</tr>
+</table>
 
-### ✍️ Daily Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p><sub>Mechatronics Engineering Student (ENISo) | Embedded Systems &amp; Robotics: STM32, FreeRTOS, ROS 2, C/C++ | Seeking 6-month Engineering Internship from Feb 2027</sub></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmineNsiri001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2>Proof at a glance</h2>
 
----
-[![](https://komarev.com/ghpvc/?username=AmineNsiri001&icon=1&color=0)](https://visitcount.itsvg.in)
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aminensiri001&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181579478%3Fu%3De8ee6ce9d068d140a2006ad8783ccb58e85743f2%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=aminensiri001&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181579478%3Fu%3De8ee6ce9d068d140a2006ad8783ccb58e85743f2%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Nsiri Amine GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=aminensiri001&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181579478%3Fu%3De8ee6ce9d068d140a2006ad8783ccb58e85743f2%26v%3D4&repos=aminensiri001%2FAmineNsiri001&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=aminensiri001&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181579478%3Fu%3De8ee6ce9d068d140a2006ad8783ccb58e85743f2%26v%3D4&repos=aminensiri001%2FAmineNsiri001&v=recruiter-projects-1&mode=dark" width="100%" alt="Nsiri Amine selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/AmineNsiri001/AmineNsiri001">AmineNsiri001</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/AmineNsiri001/AmineNsiri001">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aminensiri001&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181579478%3Fu%3De8ee6ce9d068d140a2006ad8783ccb58e85743f2%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=aminensiri001&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181579478%3Fu%3De8ee6ce9d068d140a2006ad8783ccb58e85743f2%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Nsiri Amine technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aminensiri001&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181579478%3Fu%3De8ee6ce9d068d140a2006ad8783ccb58e85743f2%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=aminensiri001&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181579478%3Fu%3De8ee6ce9d068d140a2006ad8783ccb58e85743f2%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Nsiri Amine contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/aminensiri001">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Nsiri Amine · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
